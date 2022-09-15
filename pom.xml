@@ -12,6 +12,7 @@
 
   <modules>
     <module>maven-release-test-data</module>
+    <module>maven-release-test-api</module>
   </modules>
 
   <scm>
