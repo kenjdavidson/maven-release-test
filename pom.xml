@@ -14,6 +14,10 @@
     <module>maven-release-test-data</module>
   </modules>
 
+  <scm>
+    <developerConnection>scm:git:https://github.com/kenjdavidson/maven-release-test.git</developerConnection>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
