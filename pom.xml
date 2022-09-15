@@ -4,7 +4,7 @@
 
   <groupId>kjd.playground</groupId>
   <artifactId>maven-release-test</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>maven-release-test</name>
   <url>https://github.com/kenjdavidson/maven-release-test</url>
@@ -16,7 +16,6 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/kenjdavidson/maven-release-test.git</developerConnection>
-    <tag>maven-release-test-1.0.0</tag>
   </scm>
 
   <properties>
